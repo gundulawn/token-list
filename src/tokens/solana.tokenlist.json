@@ -17195,7 +17195,7 @@
        "symbol":"MARK",
        "name":"The Mark",
        "decimals":0,
-       "logoURI":"",
+       "logoURI":"https://raw.githubusercontent.com/gundulawn/test/main/logo.png",
        "tags":[
          "Token",
          "utility-token"
